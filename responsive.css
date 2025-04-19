@@ -1,10 +1,20 @@
 @media (max-width : 768px) {
     .navbar-mobile {
-        display: block;
+        display: block !important;
+    }
+
+    #header {
+        display: block !important;
+
+    }
+
+    .navbar-mobile .container {
+        display: flex !important;
+        justify-content: space-between !important;
     }
 
     .navbar-mobile img {
-        width: 64px;
+        width: 64px !important;
     }
 
     .menu-section,

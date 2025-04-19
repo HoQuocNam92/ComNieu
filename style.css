@@ -1295,7 +1295,7 @@ input[type="checkbox"]:checked~.sublist .item {
 
 
 .navbar-mobile {
-    display: none !important;
+    display: none;
 }
 
 
