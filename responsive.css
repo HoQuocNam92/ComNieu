@@ -1,0 +1,175 @@
+@media (max-width : 768px) {
+
+    .menu-section,
+    .menu-image,
+    .order,
+    .header-section {
+        display: none !important;
+    }
+
+
+
+    .image-section {
+        display: block !important;
+    }
+
+
+    #header,
+    #content,
+    #footer {
+        padding: 0 16px;
+    }
+
+    .address .content,
+    .listContact,
+    .feedback,
+    .header {
+        display: block !important;
+
+    }
+
+    .address .content img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .footer-section {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .app {
+        display: flex !important;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .app img {
+        width: 176px !important;
+    }
+
+    .app p {
+        display: block !important;
+        text-align: center;
+    }
+
+    .app h2 {
+        text-align: center;
+
+    }
+
+    .address .content>ul {
+        width: 100% !important;
+    }
+
+    .contact img {
+        display: none !important;
+    }
+
+    .contact .form input {
+        width: 100% !important;
+    }
+
+    .shop h2 {
+        font-size: 30px !important;
+        padding: 8px 0 !important;
+    }
+
+    .app h2 {
+        font-size: 24px !important;
+    }
+
+    .about-section {
+        padding: 0 16px 0 16px !important;
+        margin: 0 -16px !important;
+    }
+
+    .text-about h3 {
+        width: 100% !important;
+        font-size: 36px !important;
+    }
+
+    .text-about .desc,
+    .address .text,
+    .company,
+    .widthBox,
+    img,
+    #banner img,
+    .item img,
+    .image-section img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .option .text h2 {
+        font-size: 24px !important;
+    }
+
+    .text-about,
+    .copyright ul,
+    .copyright,
+    .listct,
+    .option .text p,
+
+    .model,
+    .menu-section .text-menu,
+    .container,
+    .card .item,
+    .blog,
+    .content-section .intro-section {
+        display: block !important;
+
+    }
+
+    .image-section .title {
+        font-size: 18px !important;
+    }
+
+    .intro-section .images {
+        gap: 14px !important;
+    }
+
+    .content-section {
+        padding: 64px 0 !important;
+    }
+
+    .images img {
+        width: 245px !important;
+        height: 240px !important;
+
+    }
+
+    .btn {
+        margin: 8px 0 !important;
+    }
+
+    .shop2 {
+        display: none !important;
+    }
+
+    .shop1 {
+        display: block !important;
+    }
+
+    #footer {
+        padding: 0;
+    }
+
+    .contact {
+        padding: 0 16px !important;
+
+    }
+
+    .option .text {
+        width: 400px !important;
+    }
+
+    .option .text button {
+        margin: 8px 0 !important;
+    }
+
+    .image-option {
+        border-radius: 10px !important;
+    }
+}
