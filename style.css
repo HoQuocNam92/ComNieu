@@ -551,11 +551,11 @@ body {
     gap: 100px;
 }
 
-.text-about h3 {
+.text-about h2 {
     color: rgb(85, 27, 21);
     font-size: 36px;
     text-transform: uppercase;
-    width: 40%;
+
 }
 
 .text-about p {
@@ -1294,10 +1294,11 @@ input[type="checkbox"]:checked~.sublist .item {
 
 
 
-.navbar-mobile {
-    display: none !important;
-}
+.navbar-mobile {}
 
+.navbar-mobile img {
+    width: 64px;
+}
 
 .copyright {
     display: flex;

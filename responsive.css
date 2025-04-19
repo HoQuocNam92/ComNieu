@@ -85,13 +85,16 @@
         margin: 0 -16px !important;
     }
 
-    .text-about h3 {
+    .text-about h2 {
         width: 100% !important;
-        font-size: 36px !important;
     }
 
     .widthBox {
         width: 250px !important;
+    }
+
+    h2 {
+        font-size: 24px !important;
     }
 
     .text-about .desc,
