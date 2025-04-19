@@ -90,7 +90,9 @@
         font-size: 36px !important;
     }
 
-
+    .widthBox {
+        width: 250px !important;
+    }
 
     .text-about .desc,
     .address .text,
