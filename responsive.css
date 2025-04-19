@@ -147,7 +147,9 @@
         padding: 20px 0 !important;
     }
 
-
+    .card .item {
+        padding-bottom: 0 !important;
+    }
 
     .btn {
         margin: 8px 0 !important;
@@ -180,5 +182,13 @@
 
     .image-option {
         border-radius: 10px !important;
+    }
+
+    .item-card {
+        padding: 8px 0;
+    }
+
+    .card h3 {
+        margin: 6px 0 !important;
     }
 }

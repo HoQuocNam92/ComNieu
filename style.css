@@ -1031,12 +1031,14 @@ input[type="checkbox"]:checked~.sublist .item {
     border: none !important;
     padding-top: 20px !important;
     padding-bottom: 0 !important;
-
 }
 
 .widthBox {
     width: 300px;
     max-width: 100%;
+
+
+
 }
 
 
@@ -1292,7 +1294,9 @@ input[type="checkbox"]:checked~.sublist .item {
 
 
 
-
+.navbar-mobile {
+    display: none !important;
+}
 
 
 .copyright {
