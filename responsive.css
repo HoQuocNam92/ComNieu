@@ -1,4 +1,11 @@
 @media (max-width : 768px) {
+    .navbar-mobile {
+        display: block;
+    }
+
+    .navbar-mobile img {
+        width: 64px;
+    }
 
     .menu-section,
     .menu-image,

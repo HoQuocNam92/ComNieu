@@ -1294,11 +1294,11 @@ input[type="checkbox"]:checked~.sublist .item {
 
 
 
-.navbar-mobile {}
-
-.navbar-mobile img {
-    width: 64px;
+.navbar-mobile {
+    display: none;
 }
+
+
 
 .copyright {
     display: flex;
